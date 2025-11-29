@@ -16,3 +16,22 @@ Campus News: Stay up-to-date with the latest announcements, news, and updates fr
 
 Group Collaboration: Join academic or social groups, share resources, and collaborate on projects.
 
+The passkeys and Eamil ids for login are 
+
+For Students:
+
+            1)rahul.demo1@college.edu
+            2)student.demo2@college.edu
+            3)student.demo3@college.edu
+
+Common passkeys for Students is : "RAHUL"
+
+For Teachers:
+
+            1)teacher.demo1@college.edu
+            2)teacher.demo2@college.edu
+
+Common passkeys for teachers is:"1234567"
+
+NOTE:After login it will ask the user to create a new password by themselves which they can only access with their registered Email id
+
